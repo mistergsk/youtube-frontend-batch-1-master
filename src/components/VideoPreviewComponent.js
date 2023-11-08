@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 function VideoPreviewComponent(props) {
   const id = props.id;
+  //ghgghngnghnhg
   return (
     <div className="video">
       <div className="thumbnail">
