@@ -4,17 +4,17 @@ function SuggestedVideo() {
         <div className="suggested-video">
           <div className="suggestion-image">
             <img
-              src="https://i.ytimg.com/vi/SlPhMPnQ58k/mqdefault.jpg"
+              src="https://i.ytimg.com/vi/IhYDtLzmRQI/hq720.jpg"
               width={"230px"}
             />
           </div>
           <div className="suggestion-content">
             <div class="video-info">
               <p class="video-sug-title">
-                Kalank Title Track - Lyrical | Alia Bhatt
+                
               </p>
-              <p class="margin-0 smaller-fontsize">T-Series</p>
-              <p class="margin-0 smaller-fontsize">230M views . 4 years ago</p>
+              <p class="margin-0 smaller-fontsize">MrWhosTheBoss</p>
+              <p class="margin-0 smaller-fontsize">2.8M views . 4 days ago</p>
             </div>
           </div>
         </div>
